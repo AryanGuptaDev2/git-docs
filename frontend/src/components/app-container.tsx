@@ -151,7 +151,7 @@ export const AppContainer: React.FC = () => {
               Documentation
             </button>
             <a 
-              href="https://github.com/AnishMane/GitDocs" 
+              href="https://github.com/AryanGuptaDev2/GitDocs" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-github-muted text-sm hover:text-github-accent transition-colors"
@@ -202,7 +202,7 @@ export const AppContainer: React.FC = () => {
                   Documentation
                 </button>
                 <a 
-                  href="https://github.com/AnishMane/GitDocs" 
+                  href="https://github.com/AryanGuptaDev2/GitDocs" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-sm py-2 px-3 rounded-md flex items-center gap-2 text-github-muted hover:bg-github-highlight/30"
@@ -247,7 +247,7 @@ export const AppContainer: React.FC = () => {
             transition={{ delay: 0.5 }}
           >
             <a 
-              href="https://github.com/AnishMane/GitDocs" 
+              href="https://github.com/AryanGuptaDev2/GitDocs" 
               target="_blank"
               rel="noopener noreferrer"
               className="text-github-muted/80 hover:text-github-accent transition-colors flex items-center gap-2 group"

@@ -34,7 +34,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnishMane/GitDocs.git
+   git clone https://github.com/AryanGuptaDev2/GitDocs.git
    cd GitDocs
    ```
 
@@ -102,7 +102,7 @@ POST /generate-blog
 **Request Body**:
 ```json
 {
-  "repo_url": "https://github.com/AnishMane/GitDocs"
+  "repo_url": "https://github.com/AryanGuptaDev2/GitDocs"
 }
 ```
 
