@@ -81,7 +81,7 @@ def test_openrouter():
         headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://gitdocs-tw63.onrender.com",
+            "HTTP-Referer": "https://git-docs-65my.onrender.com/",
             "X-Title": "GitDocs"
         }
         
